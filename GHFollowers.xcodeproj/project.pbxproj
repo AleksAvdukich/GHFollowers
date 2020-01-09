@@ -16,6 +16,7 @@
 		1FFCBC5923C3B6A800ECC46F /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFCBC5823C3B6A800ECC46F /* FavoritesListVC.swift */; };
 		1FFCBC5B23C3F51D00ECC46F /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFCBC5A23C3F51D00ECC46F /* GFButton.swift */; };
 		1FFCBC5D23C3F92C00ECC46F /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFCBC5C23C3F92C00ECC46F /* GFTextField.swift */; };
+		1FFCBC5F23C7EB5000ECC46F /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFCBC5E23C7EB5000ECC46F /* FollowerListVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		1FFCBC5823C3B6A800ECC46F /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 		1FFCBC5A23C3F51D00ECC46F /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		1FFCBC5C23C3F92C00ECC46F /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
+		1FFCBC5E23C7EB5000ECC46F /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				1FFCBC5823C3B6A800ECC46F /* FavoritesListVC.swift */,
 				1FFCBC5A23C3F51D00ECC46F /* GFButton.swift */,
 				1FFCBC5C23C3F92C00ECC46F /* GFTextField.swift */,
+				1FFCBC5E23C7EB5000ECC46F /* FollowerListVC.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				1FFCBC5923C3B6A800ECC46F /* FavoritesListVC.swift in Sources */,
 				1FF6C8AD23C1EAD5008388E3 /* AppDelegate.swift in Sources */,
 				1FF6C8AF23C1EAD5008388E3 /* SceneDelegate.swift in Sources */,
+				1FFCBC5F23C7EB5000ECC46F /* FollowerListVC.swift in Sources */,
 				1FFCBC5D23C3F92C00ECC46F /* GFTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
