@@ -53,8 +53,6 @@ class GFAvatarImageView: UIImageView {
                 self.image = image
             }
         }
-        
         task.resume()
-        
     }
 }
