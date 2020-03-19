@@ -213,8 +213,8 @@
 			isa = PBXGroup;
 			children = (
 				1FFCBC5623C3B63000ECC46F /* SearchVC.swift */,
-				1FFCBC5823C3B6A800ECC46F /* FavoritesListVC.swift */,
 				1FFCBC5E23C7EB5000ECC46F /* FollowerListVC.swift */,
+				1FFCBC5823C3B6A800ECC46F /* FavoritesListVC.swift */,
 				1FF6C8B023C1EAD5008388E3 /* ViewController.swift */,
 				1F68A26723D731F2006E583A /* UserInfoVC.swift */,
 			);
