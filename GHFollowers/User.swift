@@ -19,5 +19,5 @@ struct User: Decodable {
     let htmlUrl: String
     let following: Int
     let followers: Int
-    let createdAt: String
+    let createdAt: Date
 }
